@@ -1,0 +1,4 @@
+baseURL = 'https://davedudeok.github.io/'
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'archie'
