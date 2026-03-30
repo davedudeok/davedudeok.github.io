@@ -1,0 +1,1 @@
+../../../obsidian-vault/blog-posts/the-silent-librarian.md
